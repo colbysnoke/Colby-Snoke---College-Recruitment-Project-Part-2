@@ -1,0 +1,874 @@
+,course,degree_enrollment,gender,race_ethnicity,age
+0,CMP 239 Internet & Web Page Design,Science,Man,Black/African American,21-24
+1,CMP 239 Internet & Web Page Design,Science,Woman,Multi-Racial,25-34
+2,CMP 239 Internet & Web Page Design,Science,Man,Hispanic or Latino,35-64
+3,CMP 239 Internet & Web Page Design,Non Degree seeking,Woman,Asian,18 and younger
+4,CMP 239 Internet & Web Page Design,Science,Man,White/Caucasian,25-34
+5,CMP 239 Internet & Web Page Design,Science,Man,White/Caucasian,19-20
+6,CMP 239 Internet & Web Page Design,Web Development Certificate of Achievement,Woman,White/Caucasian,35-64
+7,CMP 239 Internet & Web Page Design,Science,Man,White/Caucasian,25-34
+8,CMP 239 Internet & Web Page Design,Science,Man,Asian,21-24
+9,CMP 239 Internet & Web Page Design,Science,Man,Asian,21-24
+10,CMP 239 Internet & Web Page Design,Science,Man,White/Caucasian,18 and younger
+11,CMP 239 Internet & Web Page Design,Science,Man,White/Caucasian,25-34
+12,CMP 239 Internet & Web Page Design,Science,Man,White/Caucasian,19-20
+13,CMP 128 Computer Science I,Undecided,Man,Hispanic or Latino,25-34
+14,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,18 and younger
+15,CMP 128 Computer Science I,Science,Woman,Hispanic or Latino,18 and younger
+16,CMP 128 Computer Science I,Science,Man,White/Caucasian,21-24
+17,CMP 128 Computer Science I,Science,Woman,Asian,18 and younger
+18,CMP 128 Computer Science I,Non Degree seeking,Woman,Multi-Racial,19-20
+19,CMP 128 Computer Science I,Science,Woman,Black/African American,21-24
+20,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+21,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+22,CMP 128 Computer Science I,Undecided,Woman,Asian,19-20
+23,CMP 128 Computer Science I,Challenger Program,Man,Asian,18 and younger
+24,CMP 239 Internet & Web Page Design,Science,Man,Asian,19-20
+25,CMP 239 Internet & Web Page Design,Undecided,Man,Hispanic or Latino,19-20
+26,CMP 239 Internet & Web Page Design,Non Degree seeking,Woman,Hispanic or Latino,35-64
+27,CMP 239 Internet & Web Page Design,Business,Woman,Hispanic or Latino,19-20
+28,CMP 128 Computer Science I,Science,Man,White/Caucasian,21-24
+29,CMP 128 Computer Science I,Science,Woman,White/Caucasian,19-20
+30,CMP 128 Computer Science I,Engineering,Man,Multi-Racial,19-20
+31,CMP 128 Computer Science I,Mechanical Engineering Technology ,Man,White/Caucasian,21-24
+32,CMP 239 Internet & Web Page Design,Science,Man,White/Caucasian,19-20
+33,CMP 128 Computer Science I,Science,Woman,Hispanic or Latino,21-24
+34,CMP 128 Computer Science I,Science,Woman,Hispanic or Latino,18 and younger
+35,CMP 128 Computer Science I,Non Degree seeking,Man,Asian,19-20
+36,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,21-24
+37,CMP 128 Computer Science I,Business,Woman,White/Caucasian,19-20
+38,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,21-24
+39,CMP 128 Computer Science I,Science,Prefer not to say,Asian,18 and younger
+40,CMP 128 Computer Science I,Architecture and Design ,Man,Black/African American,21-24
+41,CMP 128 Computer Science I,Architecture and Design ,Man,Black/African American,21-24
+42,CMP 128 Computer Science I,mechanical engineering ,Man,White/Caucasian,18 and younger
+43,CMP 128 Computer Science I,Science,Woman,Multi-Racial,19-20
+44,CMP 128 Computer Science I,Business,Man,Hispanic or Latino,25-34
+45,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+46,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+47,CMP 128 Computer Science I,Undecided,Man,White/Caucasian,19-20
+48,CMP 128 Computer Science I,Undecided,Man,White/Caucasian,19-20
+49,CMP 128 Computer Science I,Undecided,Man,White/Caucasian,18 and younger
+50,CMP 128 Computer Science I,electrical engineering ,Woman,White/Caucasian,18 and younger
+51,CMP 128 Computer Science I,electrical engineering ,Woman,White/Caucasian,18 and younger
+52,CMP 128 Computer Science I,Science,Man,Black/African American,18 and younger
+53,CMP 128 Computer Science I,Engineering,Man,Hispanic or Latino,18 and younger
+54,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,21-24
+55,CMP 239 Internet & Web Page Design,Science,Man,Hispanic or Latino,25-34
+56,CMP 128 Computer Science I,Engineering,Man,Asian,19-20
+57,CMP 128 Computer Science I,Science,Woman,Hispanic or Latino,19-20
+58,CMP 239 Internet & Web Page Design,Undecided,Woman,Hispanic or Latino,21-24
+59,CMP 128 Computer Science I,Science,Woman,White/Caucasian,19-20
+60,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,25-34
+61,CMP 128 Computer Science I,Science,Man,Asian,19-20
+62,CMP 239 Internet & Web Page Design,Science,Man,Choose not to reply,19-20
+63,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,21-24
+64,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,18 and younger
+65,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+66,CMP 128 Computer Science I,Mechanical Engineering Technology ,Man,Hispanic or Latino,18 and younger
+67,CMP 128 Computer Science I,Science,Man,American Indian/Native American/Alaska Native,25-34
+68,CMP 128 Computer Science I,Science,Man,White/Caucasian,21-24
+69,CMP 128 Computer Science I,Liberal Arts,Woman,Multi-Racial,19-20
+70,CMP 128 Computer Science I,Business,Woman,Hispanic or Latino,19-20
+71,CMP 128 Computer Science I,Science,Woman,Hispanic or Latino,25-34
+72,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+73,CMP 128 Computer Science I,Science,Woman,White/Caucasian,18 and younger
+74,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,18 and younger
+75,CMP 128 Computer Science I,Science,Man,Multi-Racial,18 and younger
+76,CMP 239 Internet & Web Page Design,Science,Man,Asian,21-24
+77,CMP 128 Computer Science I,Associate Degree in Mathematics,Woman,White/Caucasian,65+
+78,CMP 128 Computer Science I,Engineering,I do not identify,Choose not to reply,25-34
+79,CMP 128 Computer Science I,Non Degree seeking,Woman,White/Caucasian,21-24
+80,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,25-34
+81,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+82,CMP 128 Computer Science I,Math-Education Specialization,Woman,Hispanic or Latino,21-24
+83,CMP 128 Computer Science I,Mechanical Engineer,Man,Hispanic or Latino,19-20
+84,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+85,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+86,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,19-20
+87,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,25-34
+88,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,25-34
+89,CMP 239 Internet & Web Page Design,Science,Woman,Black/African American,25-34
+90,CMP 128 Computer Science I,Associate's Degree,Woman,Asian,19-20
+91,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+92,CMP 128 Computer Science I,Engineering,Man,Hispanic or Latino,35-64
+93,CMP 128 Computer Science I,Science,Woman,Asian,18 and younger
+94,CMP 128 Computer Science I,Business,Woman,Asian,18 and younger
+95,CMP 128 Computer Science I,Engineering,Man,Hispanic or Latino,19-20
+96,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,18 and younger
+97,CMP 128 Computer Science I,Mathematics,Man,White/Caucasian,19-20
+98,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,18 and younger
+99,CMP 128 Computer Science I,Science,Prefer not to say,White/Caucasian,18 and younger
+100,CMP 128 Computer Science I,Undecided,Woman,Asian,19-20
+101,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+102,CMP 128 Computer Science I,Science,Woman,White/Caucasian,21-24
+103,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,21-24
+104,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+105,CMP 128 Computer Science I,Science,Man,American Indian/Native American/Alaska Native,18 and younger
+106,CMP 128 Computer Science I,MET,Man,White/Caucasian,21-24
+107,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,18 and younger
+108,CMP 128 Computer Science I,Business,Man,Asian,19-20
+109,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,18 and younger
+110,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,19-20
+111,CMP 131 Fundamentals of Programming (Python),Information Security Certificate of Achievement,Woman,White/Caucasian,35-64
+112,CMP 131 Fundamentals of Programming (Python),Science,Man,Hispanic or Latino,18 and younger
+113,CMP 131 Fundamentals of Programming (Python),Science,Woman,White/Caucasian,21-24
+114,CMP 131 Fundamentals of Programming (Python),Information Security Certificate of Achievement,Man,White/Caucasian,19-20
+115,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,35-64
+116,CMP 131 Fundamentals of Programming (Python),Science,Man,Hispanic or Latino,18 and younger
+117,CMP 131 Fundamentals of Programming (Python),Science,Man,Asian,21-24
+118,CMP 131 Fundamentals of Programming (Python),Science,Man,Asian,25-34
+119,CMP 239 Internet & Web Page Design,Science,Man,Asian,18 and younger
+120,CMP 131 Fundamentals of Programming (Python),Non Degree seeking,Man,Hispanic or Latino,19-20
+121,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,19-20
+122,CMP 128 Computer Science I,"Mathematics Option, Applied Associate of Science",Prefer not to say,Choose not to reply,21-24
+123,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,21-24
+124,CMP 128 Computer Science I,Challenger Program,Man,White/Caucasian,18 and younger
+125,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,21-24
+126,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+127,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+128,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+129,CMP 128 Computer Science I,Science,Woman,Hispanic or Latino,18 and younger
+130,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+131,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+132,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,Hispanic or Latino,18 and younger
+133,CMP 131 Fundamentals of Programming (Python),Non Degree seeking,Woman,Asian,18 and younger
+134,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Woman,Asian,18 and younger
+135,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,Asian,18 and younger
+136,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+137,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+138,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Prefer not to say,Choose not to reply,18 and younger
+139,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Woman,Black/African American,18 and younger
+140,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+141,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Woman,White/Caucasian,18 and younger
+142,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,Asian,18 and younger
+143,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,Multi-Racial,18 and younger
+144,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+145,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+146,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+147,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+148,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+149,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Prefer not to say,Choose not to reply,18 and younger
+150,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Woman,Asian,18 and younger
+151,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,Asian,18 and younger
+152,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+153,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+154,CMP 128 Computer Science I,Science,Man,Choose not to reply,25-34
+155,CMP 128 Computer Science I,Web Development Certificate of Achievement,Man,White/Caucasian,19-20
+156,CMP 128 Computer Science I,Science,Man,White/Caucasian,25-34
+157,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,19-20
+158,CMP 128 Computer Science I,Science,Man,White/Caucasian,21-24
+159,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+160,CMP 128 Computer Science I,Science,Man,White/Caucasian,21-24
+161,CMP 128 Computer Science I,Science,Man,White/Caucasian,21-24
+162,CMP 128 Computer Science I,minoring in computer science,Man,Asian,18 and younger
+163,CMP 128 Computer Science I,Science,Man,Asian,19-20
+164,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+165,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,18 and younger
+166,CMP 128 Computer Science I,Undecided,Man,White/Caucasian,18 and younger
+167,CMP 128 Computer Science I,Mechanical  Engineering,Man,Hispanic or Latino,18 and younger
+168,CMP 128 Computer Science I,Technology Engineering ,Man,Hispanic or Latino,18 and younger
+169,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,25-34
+170,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+171,CMP 128 Computer Science I,liberal arts major,Man,White/Caucasian,19-20
+172,CMP 128 Computer Science I,liberal Arts Major,Man,White/Caucasian,19-20
+173,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,18 and younger
+174,CMP 120 Foundations of Information Security,Information Security Certificate of Achievement,Man,White/Caucasian,18 and younger
+175,CMP 120 Foundations of Information Security,Information Security Certificate of Achievement,Man,White/Caucasian,21-24
+176,CMP 120 Foundations of Information Security,Science,Man,Choose not to reply,25-34
+177,CMP 120 Foundations of Information Security,Science,Man,Asian,19-20
+178,CMP 120 Foundations of Information Security,Science,Woman,Multi-Racial,25-34
+179,CMP 120 Foundations of Information Security,Science,Woman,Multi-Racial,25-34
+180,CMP 120 Foundations of Information Security,Science,Woman,Multi-Racial,25-34
+181,CMP 128 Computer Science I,Mechanical Engineering Technology  ,Man,Hispanic or Latino,18 and younger
+182,CMP 128 Computer Science I,Undecided,Man,White/Caucasian,19-20
+183,CMP 128 Computer Science I,Science,Man,Hispanic or Latino,25-34
+184,CMP 120 Foundations of Information Security,Science,Man,Asian,21-24
+185,CMP 120 Foundations of Information Security,Science,Man,Hispanic or Latino,25-34
+186,CMP 120 Foundations of Information Security,Science,Woman,Black/African American,21-24
+187,CMP 128 Computer Science I,EDAM,Woman,White/Caucasian,18 and younger
+188,CMP 128 Computer Science I,Non Degree seeking,Woman,Hispanic or Latino,18 and younger
+189,CMP 128 Computer Science I,share time (EDAM),Man,Choose not to reply,18 and younger
+190,CMP 128 Computer Science I,EDAM,Man,White/Caucasian,18 and younger
+191,CMP 128 Computer Science I,ShareTime CSIP Program,Man,Black/African American,18 and younger
+192,CMP 128 Computer Science I,Challenger Program,Man,White/Caucasian,18 and younger
+193,CMP 128 Computer Science I,Challenger Program,Man,Hispanic or Latino,18 and younger
+194,CMP 128 Computer Science I,Science,Non-binary,White/Caucasian,21-24
+195,CMP 131 Fundamentals of Programming (Python),Undecided,Man,Hispanic or Latino,19-20
+196,CMP 131 Fundamentals of Programming (Python),Science,Man,Asian,19-20
+197,CMP 131 Fundamentals of Programming (Python),Science,Prefer not to say,Multi-Racial,25-34
+198,CMP 131 Fundamentals of Programming (Python),Science,Man,Asian,21-24
+199,CMP 131 Fundamentals of Programming (Python),Science,Man,Asian,18 and younger
+200,CMP 131 Fundamentals of Programming (Python),Undecided,Man,Asian,18 and younger
+201,CMP 131 Fundamentals of Programming (Python),Science,Man,Asian,18 and younger
+202,CMP 131 Fundamentals of Programming (Python),Science,Man,Asian,19-20
+203,CMP 131 Fundamentals of Programming (Python),Science,Man,Hispanic or Latino,19-20
+204,CMP 131 Fundamentals of Programming (Python),Science,Man,Black/African American,19-20
+205,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,19-20
+206,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,19-20
+207,CMP 131 Fundamentals of Programming (Python),Science,Man,Asian,19-20
+208,CMP 131 Fundamentals of Programming (Python),Science,Man,Hispanic or Latino,21-24
+209,CMP 131 Fundamentals of Programming (Python),Science,Prefer not to say,Multi-Racial,19-20
+210,CMP 128 Computer Science I,Science,Woman,Multi-Racial,18 and younger
+211,CMP 131 Fundamentals of Programming (Python),Science,Man,Hispanic or Latino,21-24
+212,CMP 128 Computer Science I,Business,Man,White/Caucasian,21-24
+213,CMP 120 Foundations of Information Security,Information Security Certificate of Achievement,Man,Hispanic or Latino,21-24
+214,CMP 128 Computer Science I,Science,Woman,Asian,25-34
+215,CMP 128 Computer Science I,Information Technology ,Man,Asian,19-20
+216,CMP 128 Computer Science I,Business,Woman,Multi-Racial,21-24
+217,CMP 239 Internet & Web Page Design,Science,Man,Hispanic or Latino,19-20
+218,CMP 239 Internet & Web Page Design,Science,Man,Black/African American,18 and younger
+219,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+220,CMP 239 Internet & Web Page Design,Science,Man,Hispanic or Latino,25-34
+221,CMP 128 Computer Science I,Business,Woman,White/Caucasian,19-20
+222,CMP 128 Computer Science I,Science,Man,White/Caucasian,25-34
+223,CMP 128 Computer Science I,Engineering,Man,Multi-Racial,21-24
+224,CMP 131 Fundamentals of Programming (Python),Non Degree seeking,Woman,Hispanic or Latino,35-64
+225,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,25-34
+226,CMP 239 Internet & Web Page Design,Science,Man,White/Caucasian,19-20
+227,CMP 130 Intro to IT,Science,Man,White/Caucasian,18 and younger
+228,CMP 130 Intro to IT,Science,Man,White/Caucasian,18 and younger
+229,CMP 130 Intro to IT,Science,Man,Asian,21-24
+230,CMP 130 Intro to IT,Undecided,Man,White/Caucasian,19-20
+231,CMP 130 Intro to IT,Science,Man,Asian,19-20
+232,CMP 130 Intro to IT,Science,Man,White/Caucasian,18 and younger
+233,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,21-24
+234,CMP 130 Intro to IT,Science,Man,Black/African American,35-64
+235,CMP 130 Intro to IT,Science,Woman,Hispanic or Latino,25-34
+236,CMP 130 Intro to IT,Science,Man,White/Caucasian,35-64
+237,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,35-64
+238,CMP 120 Foundations of Information Security,Science,Man,Asian,19-20
+239,CMP 130 Intro to IT,Challenger Program,Man,Multi-Racial,18 and younger
+240,CMP 130 Intro to IT,Science,Man,Multi-Racial,18 and younger
+241,CMP 130 Intro to IT,Science,Woman,White/Caucasian,19-20
+242,CMP 130 Intro to IT,Science,Woman,White/Caucasian,35-64
+243,CMP 130 Intro to IT,Science,Man,Choose not to reply,19-20
+244,CMP 128 Computer Science I,Business,Woman,White/Caucasian,19-20
+245,CMP 130 Intro to IT,Science,Man,Black/African American,25-34
+246,CMP 120 Foundations of Information Security,Science,Prefer not to say,Choose not to reply,18 and younger
+247,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,25-34
+248,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+249,CMP 128 Computer Science I,Science,Man,White/Caucasian,25-34
+250,CMP 128 Computer Science I,Science,Woman,White/Caucasian,21-24
+251,CMP 128 Computer Science I,Engineering,Man,Multi-Racial,21-24
+252,CMP 128 Computer Science I,Information Security Certificate of Achievement,Man,White/Caucasian,19-20
+253,CMP 128 Computer Science I,Science,Woman,Hispanic or Latino,25-34
+254,CMP 130 Intro to IT,Science,Woman,Asian,18 and younger
+255,CMP 130 Intro to IT,Science,Man,White/Caucasian,25-34
+256,CMP 128 Computer Science I,Nursing,Woman,Multi-Racial,18 and younger
+257,CMP 130 Intro to IT,Science,Man,Hispanic or Latino,21-24
+258,CMP 130 Intro to IT,Information Security Certificate of Achievement,Man,Hispanic or Latino,21-24
+259,CMP 131 Fundamentals of Programming (Python),Science,Woman,Black/African American,19-20
+260,CMP 120 Foundations of Information Security,Science,Man,Hispanic or Latino,19-20
+261,CMP 128 Computer Science I,Science,Woman,White/Caucasian,18 and younger
+262,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+263,CMP 130 Intro to IT,Science,Man,Choose not to reply,25-34
+264,CMP 120 Foundations of Information Security,Information Security Certificate of Achievement,Man,Black/African American,25-34
+265,CMP 130 Intro to IT,Science,Man,White/Caucasian,35-64
+266,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,25-34
+267,CMP 128 Computer Science I,ShareTime CSIP Program,Man,Hispanic or Latino,18 and younger
+268,CMP 130 Intro to IT,Science,Man,Asian,18 and younger
+269,CMP 120 Foundations of Information Security,Science,Man,Hispanic or Latino,19-20
+270,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+271,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+272,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+273,CMP 120 Foundations of Information Security,Science,Prefer not to say,White/Caucasian,21-24
+274,CMP 128 Computer Science I,Business Administration ,Man,Asian,25-34
+275,CMP 128 Computer Science I,Business,Woman,Multi-Racial,21-24
+276,CMP 120 Foundations of Information Security,Science,Man,Black/African American,21-24
+277,CMP 128 Computer Science I,Science,Man,White/Caucasian,19-20
+278,CMP 120 Foundations of Information Security,Science,Man,Asian,19-20
+279,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+280,CMP 131 Fundamentals of Programming (Python),Science,Woman,Asian,25-34
+281,CMP 128 Computer Science I,Undecided,Man,Multi-Racial,19-20
+282,CMP 130 Intro to IT,Science,Man,Asian,19-20
+283,CMP 128 Computer Science I,Science,Man,Asian,19-20
+284,CMP 239 Internet & Web Page Design,Science,Man,Asian,21-24
+285,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,19-20
+286,CMP 131 Fundamentals of Programming (Python),Science,Man,White/Caucasian,19-20
+287,CMP 120 Foundations of Information Security,Science,Non-binary,Choose not to reply,19-20
+288,CMP 128 Computer Science I,Business,Man,Multi-Racial,19-20
+289,CMP 128 Computer Science I,Science,Man,Asian,25-34
+290,CMP 120 Foundations of Information Security,Science,Man,Hispanic or Latino,21-24
+291,CMP 131 Fundamentals of Programming (Python),ShareTime CSIP Program,Woman,Asian,18 and younger
+292,CMP 130 Intro to IT,Challenger Program,Man,Choose not to reply,18 and younger
+293,CMP 130 Intro to IT,Science,Man,White/Caucasian,21-24
+294,CMP 131 Fundamentals of Programming (Python),Science,Man,Black/African American,19-20
+295,CMP 131 Fundamentals of Programming (Python),Science,Prefer not to say,Choose not to reply,25-34
+296,CMP 128 Computer Science I,Undecided,Woman,Asian,19-20
+297,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+298,CMP 128 Computer Science I,Non Degree seeking,Woman,Asian,18 and younger
+299,CMP 128 Computer Science I,Electronic engineering ,Man,Hispanic or Latino,19-20
+300,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+301,CMP 128 Computer Science I,Computer Science,Man,Choose not to reply,35-64
+302,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+303,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+304,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+305,CMP 128 Computer Science I,Undecided,Woman,Asian,18 and younger
+306,CMP 128 Computer Science I,Mathematics and Science,Man,White/Caucasian,21-24
+307,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,18 and younger
+308,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,25-34
+309,CMP 128 Computer Science I,Non Degree seeking,Woman,Asian,18 and younger
+310,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+311,CMP 128 Computer Science I,Non Degree seeking,Woman,White/Caucasian,18 and younger
+312,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,35-64
+313,CMP 128 Computer Science I,libral arts,Woman,White/Caucasian,19-20
+314,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+315,CMP 128 Computer Science I,Non Degree seeking,Woman,White/Caucasian,18 and younger
+316,CMP 128 Computer Science I,CIS Game Development Option,Man,White/Caucasian,19-20
+317,CMP 128 Computer Science I,mechanical engineering ,Man,White/Caucasian,19-20
+318,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,19-20
+319,CMP 128 Computer Science I,Mechanical Engineering ,Man,Asian,19-20
+320,CMP 128 Computer Science I,Computer Science,Man,Asian,19-20
+321,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,19-20
+322,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,19-20
+323,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+324,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+325,CMP 128 Computer Science I,Business,Man,White/Caucasian,19-20
+326,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,18 and younger
+327,CMP 128 Computer Science I,Engineering,Man,Black/African American,35-64
+328,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,19-20
+329,CMP 128 Computer Science I,Computer Science,Woman,Black/African American,19-20
+330,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,21-24
+331,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,19-20
+332,CMP 128 Computer Science I,CIS Game Development Option,Man,Hispanic or Latino,18 and younger
+333,CMP 128 Computer Science I,Computer Science,Man,Asian,18 and younger
+334,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+335,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+336,CMP 128 Computer Science I,electronic engineering ,Man,Hispanic or Latino,19-20
+337,CMP 128 Computer Science I,"Business Admin, might change to CompSci :)",Man,White/Caucasian,19-20
+338,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,19-20
+339,CMP 128 Computer Science I,Computer Science,Prefer not to say,Choose not to reply,19-20
+340,CMP 128 Computer Science I,Information Technology,Man,Asian,25-34
+341,CMP 130 Intro to IT,Computer Science,Man,Asian,19-20
+342,CMP 128 Computer Science I,Engineering,Man,Multi-Racial,18 and younger
+343,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,21-24
+344,CMP 131 Fundamentals of Programming (Python),Computer Science,Man,White/Caucasian,25-34
+345,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,25-34
+346,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,21-24
+347,CMP 128 Computer Science I,Web Development Certificate of Achievement,Man,Hispanic or Latino,35-64
+348,CMP 131 Fundamentals of Programming (Python),Computer Science,Man,Asian,19-20
+349,CMP 131 Fundamentals of Programming (Python),Computer Science,Man,White/Caucasian,19-20
+350,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,White/Caucasian,19-20
+351,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,Hispanic or Latino,25-34
+352,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,White/Caucasian,18 and younger
+353,CMP 131 Fundamentals of Programming (Python),Computer Science,Man,Asian,19-20
+354,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,White/Caucasian,18 and younger
+355,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,White/Caucasian,18 and younger
+356,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,American Indian/Native American/Alaska Native,19-20
+357,CMP 128 Computer Science I,Business,Man,White/Caucasian,19-20
+358,CMP 131 Fundamentals of Programming (Python),Data Analytics Certificate of Achievement,Man,White/Caucasian,19-20
+359,CMP 131 Fundamentals of Programming (Python),Data Analytics Certificate of Achievement,Man,White/Caucasian,19-20
+360,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,19-20
+361,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,18 and younger
+362,CMP 128 Computer Science I,Computer Science,Man,Black/African American,18 and younger
+363,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,19-20
+364,CMP 130 Intro to IT,Information Technology,Man,Hispanic or Latino,25-34
+365,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,21-24
+366,CMP 131 Fundamentals of Programming (Python),Computer Science,Man,Asian,19-20
+367,CMP 128 Computer Science I,Information Technology,Man,Multi-Racial,19-20
+368,CMP 131 Fundamentals of Programming (Python),Mathematics and Science,Woman,White/Caucasian,35-64
+369,CMP 128 Computer Science I,Business ,Man,White/Caucasian,18 and younger
+370,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,35-64
+371,CMP 128 Computer Science I,Science,Man,White/Caucasian,18 and younger
+372,CMP 128 Computer Science I,Undecided,Woman,Multi-Racial,19-20
+373,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,White/Caucasian,18 and younger
+374,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,19-20
+375,CMP 128 Computer Science I,Computer Science,Man,Multi-Racial,25-34
+376,CMP 128 Computer Science I,Radiography ,Man,Hispanic or Latino,35-64
+377,CMP 239 Internet & Web Page Design,Information Technology,Man,White/Caucasian,21-24
+378,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+379,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,18 and younger
+380,CMP 239 Internet & Web Page Design,Digital Media Technology,Woman,White/Caucasian,18 and younger
+381,CMP 239 Internet & Web Page Design,Information Technology,Man,Hispanic or Latino,18 and younger
+382,CMP 239 Internet & Web Page Design,Information Technology,Man,White/Caucasian,19-20
+383,CMP 239 Internet & Web Page Design,Digital Media Technology,Man,Hispanic or Latino,21-24
+384,CMP 239 Internet & Web Page Design,Information Technology,Man,White/Caucasian,21-24
+385,CMP 239 Internet & Web Page Design,Web Development Certificate of Achievement,Man,White/Caucasian,35-64
+386,CMP 239 Internet & Web Page Design,Information Technology,Man,White/Caucasian,19-20
+387,CMP 239 Internet & Web Page Design,Computer Science,Man,White/Caucasian,25-34
+388,CMP 239 Internet & Web Page Design,Information Technology,Man,White/Caucasian,21-24
+389,CMP 239 Internet & Web Page Design,Graphic Design ,Woman,Hispanic or Latino,25-34
+390,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+391,CMP 128 Computer Science I,Computer Science,Man,Black/African American,18 and younger
+392,CMP 128 Computer Science I,Mathematics,Man,Asian,21-24
+393,CMP 128 Computer Science I,Computer Science,Man,Asian,19-20
+394,CMP 128 Computer Science I,Challenger Program,Woman,White/Caucasian,18 and younger
+395,CMP 128 Computer Science I,Biology Environmental Track,Prefer not to say,Choose not to reply,19-20
+396,CMP 128 Computer Science I,Computer Science,Man,Asian,19-20
+397,CMP 128 Computer Science I,Dual Enrollment,Woman,Asian,18 and younger
+398,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+399,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,19-20
+400,CMP 128 Computer Science I,Information Technology,Man,White/Caucasian,19-20
+401,CMP 128 Computer Science I,mechanical engineering technology ,Man,Hispanic or Latino,18 and younger
+402,CMP 128 Computer Science I,Computer Science,Man,Black/African American,19-20
+403,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+404,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+405,CMP 128 Computer Science I,Challenger Program,Woman,White/Caucasian,18 and younger
+406,CMP 128 Computer Science I,mechanical engineering technology ,Man,Hispanic or Latino,18 and younger
+407,CMP 128 Computer Science I,Computer Science,Man,Multi-Racial,18 and younger
+408,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,19-20
+409,CMP 239 Internet & Web Page Design,Graphic Design,Man,Hispanic or Latino,19-20
+410,CMP 128 Computer Science I,ShareTime CSIP Program,Woman,Hispanic or Latino,18 and younger
+411,CMP 239 Internet & Web Page Design,Computer Science,Woman,White/Caucasian,19-20
+412,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,Choose not to reply,21-24
+413,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+414,CMP 128 Computer Science I,Information Technology,Man,Asian,19-20
+415,CMP 128 Computer Science I,Undecided,Man,White/Caucasian,18 and younger
+416,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,19-20
+417,CMP 128 Computer Science I,ShareTime EDAM Program,Woman,White/Caucasian,18 and younger
+418,CMP 239 Internet & Web Page Design,Information Technology,Man,White/Caucasian,19-20
+419,CMP 128 Computer Science I,Information Technology,Man,Asian,19-20
+420,CMP 128 Computer Science I,Non Degree seeking,Woman,White/Caucasian,18 and younger
+421,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,19-20
+422,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,18 and younger
+423,CMP 128 Computer Science I,Computer Science,Woman,Black/African American,21-24
+424,CMP 128 Computer Science I,Undecided,Woman,Asian,19-20
+425,CMP 128 Computer Science I,Digital Media Technology,Man,White/Caucasian,21-24
+426,CMP 128 Computer Science I,Computer Science,Woman,American Indian/Native American/Alaska Native,21-24
+427,CMP 128 Computer Science I,Computer Science,Woman,Asian,21-24
+428,CMP 128 Computer Science I,Liberal Arts Program,Woman,White/Caucasian,21-24
+429,CMP 128 Computer Science I,Visiting student,Woman,Hispanic or Latino,19-20
+430,CMP 128 Computer Science I,CIS Game Development Option,Woman,Hispanic or Latino,18 and younger
+431,CMP 128 Computer Science I,Web Development Certificate of Achievement,Man,White/Caucasian,35-64
+432,CMP 128 Computer Science I,Computer Science,Man,Choose not to reply,19-20
+433,CMP 128 Computer Science I,Non Degree seeking,Man,Multi-Racial,19-20
+434,CMP 128 Computer Science I,Information Technology,Man,White/Caucasian,21-24
+435,CMP 239 Internet & Web Page Design,Digital Media Technology,Man,White/Caucasian,18 and younger
+436,CMP 239 Internet & Web Page Design,Digital Media Technology,Man,White/Caucasian,18 and younger
+437,CMP 128 Computer Science I,EDAM Sharetime Program,Man,White/Caucasian,18 and younger
+438,CMP 128 Computer Science I,EDam Share time,Man,White/Caucasian,18 and younger
+439,CMP 128 Computer Science I,EDAM student,Man,Multi-Racial,18 and younger
+440,CMP 128 Computer Science I,Business,Man,White/Caucasian,19-20
+441,CMP 128 Computer Science I,Computer Science,Woman,Asian,35-64
+442,CMP 128 Computer Science I,Non Degree seeking,Woman,Asian,18 and younger
+443,CMP 128 Computer Science I,ShareTime EDAM,Man,White/Caucasian,18 and younger
+444,CMP 128 Computer Science I,Non Degree seeking,Woman,Asian,18 and younger
+445,CMP 128 Computer Science I,Challenger Program,Woman,Hispanic or Latino,18 and younger
+446,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,Hispanic or Latino,18 and younger
+447,CMP 239 Internet & Web Page Design,Information Technology,Man,Hispanic or Latino,18 and younger
+448,CMP 128 Computer Science I,Engineering Design and Advanced Manufacturing. ,Man,White/Caucasian,18 and younger
+449,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,18 and younger
+450,CMP 130 Intro to IT,Information Technology,Prefer not to say,White/Caucasian,18 and younger
+451,CMP 120 Foundations of Information Security,Information Technology,Man,Asian,19-20
+452,CMP 120 Foundations of Information Security,Information Technology,Woman,Hispanic or Latino,35-64
+453,CMP 128 Computer Science I,CIS Game Development Option,Man,White/Caucasian,19-20
+454,CMP 131 Fundamentals of Programming (Python),Information Technology,Woman,Hispanic or Latino,18 and younger
+455,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,White/Caucasian,21-24
+456,CMP 128 Computer Science I,Business,Man,White/Caucasian,25-34
+457,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,21-24
+458,CMP 239 Internet & Web Page Design,Graphics Design,Man,White/Caucasian,19-20
+459,CMP 239 Internet & Web Page Design,Graphic Design,Man,White/Caucasian,19-20
+460,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,19-20
+461,CMP 128 Computer Science I,Computer Science,Man,Hispanic or Latino,18 and younger
+462,CMP 128 Computer Science I,Undecided,Man,White/Caucasian,18 and younger
+463,CMP 128 Computer Science I,ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+464,CMP 128 Computer Science I,Challenger Program,Man,Multi-Racial,18 and younger
+465,CMP 128 Computer Science I,CCM Share time program,Man,Hispanic or Latino,18 and younger
+466,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+467,CMP 239 Internet & Web Page Design,Information Technology,Man,Hispanic or Latino,25-34
+468,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,35-64
+469,CMP 239 Internet & Web Page Design,Information Technology,Man,Hispanic or Latino,21-24
+470,CMP 128 Computer Science I,Computer Science,Man,Choose not to reply,19-20
+471,CMP 131 Fundamentals of Programming (Python),Non Degree seeking,Man,White/Caucasian,25-34
+472,CMP 131 Fundamentals of Programming (Python),Data Analytics Certificate of Achievement,Man,Choose not to reply,21-24
+473,CMP 239 Internet & Web Page Design,Information Technology,Man,White/Caucasian,19-20
+474,CMP 239 Internet & Web Page Design,Digital Media Technology,Man,White/Caucasian,19-20
+475,CMP 239 Internet & Web Page Design,Computer Science,Man,Asian,19-20
+476,CMP 128 Computer Science I,Computer Science,I do not identify,Hispanic or Latino,18 and younger
+477,CMP 128 Computer Science I,Engineering,Prefer not to say,Choose not to reply,19-20
+478,CMP 128 Computer Science I,Computer Science,Woman,White/Caucasian,18 and younger
+479,CMP 128 Computer Science I,Business,Man,Asian,19-20
+480,CMP 128 Computer Science I,Business,Man,White/Caucasian,25-34
+481,CMP 128 Computer Science I,Computer Science,Woman,Hispanic or Latino,19-20
+482,CMP 128 Computer Science I,Computer Science,Man,Multi-Racial,21-24
+483,CMP 128 Computer Science I,mechanical technology major ,Man,Hispanic or Latino,19-20
+484,CMP 131 Fundamentals of Programming (Python),Information Technology,Man,White/Caucasian,25-34
+485,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,19-20
+486,CMP 128 Computer Science I,Mechanical Engineering Technology ,Man,White/Caucasian,19-20
+487,CMP 128 Computer Science I,Computer Science,Man,Asian,18 and younger
+488,CMP 128 Computer Science I,Computer Science,Woman,White/Caucasian,19-20
+489,CMP 128 Computer Science I,Computer Science,Man,Black/African American,19-20
+490,CMP 128 Computer Science I,CIS Game Development Option,Man,Hispanic or Latino,19-20
+491,CMP 128 Computer Science I,Mechanical engineering technology ,Man,White/Caucasian,19-20
+492,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,18 and younger
+493,CMP 128 Computer Science I,Computer Science,Man,Multi-Racial,19-20
+494,CMP 128 Computer Science I,Computer Science,Woman,White/Caucasian,18 and younger
+495,CMP 239 Internet & Web Page Design,Information Technology,Man,Black/African American,21-24
+496,CMP 128 Computer Science I,Mech Tech,Man,Multi-Racial,18 and younger
+497,CMP 128 Computer Science I,Undecided,Man,White/Caucasian,21-24
+498,CMP 128 Computer Science I,Information Technology,Man,White/Caucasian,19-20
+499,CMP 128 Computer Science I,Computer Science,Man,Choose not to reply,21-24
+500,CMP 128 Computer Science I,Computer Science,Man,Black/African American,19-20
+501,CMP 120 Foundations of Information Security,Information Technology,Man,White/Caucasian,18 and younger
+502,CMP 130 Intro to IT,not enrolled in a degree program (votech infosec),Man,White/Caucasian,18 and younger
+503,CMP 130 Intro to IT,votech infosec,Man,White/Caucasian,18 and younger
+504,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Man,Hispanic or Latino,18 and younger
+505,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Woman,White/Caucasian,18 and younger
+506,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Woman,White/Caucasian,18 and younger
+507,CMP 130 Intro to IT,ShareTime CSIP Program,Man,Asian,18 and younger
+508,CMP 120 Foundations of Information Security,Information Technology,Woman,White/Caucasian,18 and younger
+509,CMP 120 Foundations of Information Security,Information Technology,Woman,White/Caucasian,18 and younger
+510,CMP 120 Foundations of Information Security,Information Technology,Man,Choose not to reply,18 and younger
+511,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Man,Asian,18 and younger
+512,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+513,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+514,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Woman,White/Caucasian,18 and younger
+515,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+516,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Woman,Multi-Racial,18 and younger
+517,CMP 130 Intro to IT,ShareTime CSIP Program,Man,White/Caucasian,18 and younger
+518,CMP 120 Foundations of Information Security,Computer Science,Man,Multi-Racial,18 and younger
+519,CMP 120 Foundations of Information Security,Information Technology,Man,Hispanic or Latino,18 and younger
+520,CMP 120 Foundations of Information Security,ShareTime CSIP Program,Man,Asian,18 and younger
+521,CMP 120 Foundations of Information Security,Undecided,Man,White/Caucasian,18 and younger
+522,CMP 120 Foundations of Information Security,Information Technology,Man,Hispanic or Latino,18 and younger
+523,CMP 130 Intro to IT,ShareTime CSIP Program,Man,Multi-Racial,18 and younger
+524,CMP 128 Computer Science I,Business,Man,White/Caucasian,19-20
+525,CMP 130 Intro to IT,Information Technology,Man,Choose not to reply,19-20
+526,CMP 130 Intro to IT,Information Technology,Man,Hispanic or Latino,19-20
+527,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,19-20
+528,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,18 and younger
+529,CMP 130 Intro to IT,Information Technology,Prefer not to say,Choose not to reply,25-34
+530,CMP 130 Intro to IT,Computer Science,Man,White/Caucasian,19-20
+531,CMP 130 Intro to IT,Information Technology,Man,Hispanic or Latino,19-20
+532,CMP 128 Computer Science I,Engineering,Man,White/Caucasian,18 and younger
+533,CMP 130 Intro to IT,Information Technology,Man,Hispanic or Latino,19-20
+534,CMP 130 Intro to IT,Computer Science,Man,Multi-Racial,19-20
+535,CMP 130 Intro to IT,Computer Science,Man,Multi-Racial,19-20
+536,CMP 130 Intro to IT,Computer Science,Man,White/Caucasian,19-20
+537,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,18 and younger
+538,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,35-64
+539,CMP 131 Fundamentals of Programming (Python),Computer Science,Man,White/Caucasian,18 and younger
+540,CMP 131 Fundamentals of Programming (Python),Computer Science,Woman,White/Caucasian,18 and younger
+541,CMP 130 Intro to IT,Information Technology,Man,White/Caucasian,35-64
+542,CMP 128 Computer Science I,Computer Science,Man,White/Caucasian,18 and younger
+543,245,,,,
+544,5,,,,
+0,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,35-64
+1,CMP 126 Computer Technology and Applications,Biology,Woman,White/Caucasian,25-34
+2,CMP 101 Computer Information Literacy,Biology,Woman,White/Caucasian,21-24
+3,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,21-24
+4,CMP 101 Computer Information Literacy,Biology,Woman,White/Caucasian,21-24
+5,CMP 135 Computer Concepts with Applications,biology,Woman,Black/African American,19-20
+6,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,19-20
+7,CMP 126 Computer Technology and Applications,Biology,Man,White/Caucasian,19-20
+8,CMP 135 Computer Concepts with Applications,Mathematics,Man,Multi-Racial,19-20
+9,CMP 135 Computer Concepts with Applications,Public Health,Woman,White/Caucasian,35-64
+10,CMP 135 Computer Concepts with Applications,Communication;Radiography,Woman,Black/African American,19-20
+11,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,Hispanic or Latino,19-20
+12,CMP 101 Computer Information Literacy,Public Health,Woman,White/Caucasian,35-64
+13,CMP 101 Computer Information Literacy,Child and Family Studies,Woman,White/Caucasian,21-24
+14,CMP 126 Computer Technology and Applications,Criminal Justice,Man,Multi-Racial,19-20
+15,CMP 126 Computer Technology and Applications,Liberal Arts and Sciences,Woman,White/Caucasian,19-20
+16,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,White/Caucasian,25-34
+17,CMP 126 Computer Technology and Applications,Comp Aided Drafting Tech,Man,White/Caucasian,25-34
+18,CMP 126 Computer Technology and Applications,Not in a degree program,Man,White/Caucasian,19-20
+19,CMP 126 Computer Technology and Applications,Liberal Arts and Sciences,Woman,White/Caucasian,19-20
+20,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,Black/African American,25-34
+21,CMP 126 Computer Technology and Applications,Criminal Justice,Man,White/Caucasian,21-24
+22,CMP 126 Computer Technology and Applications,Not in a degree program,Man,White/Caucasian,18 and younger
+23,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,Multi-Racial,19-20
+24,CMP 126 Computer Technology and Applications,Early Childhood Education,Man,White/Caucasian,21-24
+25,CMP 101 Computer Information Literacy,Nursing,Woman,Hispanic or Latino,25-34
+26,CMP 126 Computer Technology and Applications,Criminal Justice,Man,Asian,18 and younger
+27,CMP 126 Computer Technology and Applications,Human Services ,Woman,Hispanic or Latino,19-20
+28,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,25-34
+29,CMP 101 Computer Information Literacy,Fine Arts Fashion Merchandising ,Woman,Asian,21-24
+30,CMP 101 Computer Information Literacy,Visual Fine Arts,Woman,White/Caucasian,18 and younger
+31,CMP 135 Computer Concepts with Applications,Computer Science,Man,Multi-Racial,25-34
+32,CMP 101 Computer Information Literacy,Hospitality Management ,Woman,White/Caucasian,19-20
+33,CMP 126 Computer Technology and Applications,Not in a degree program,Woman,White/Caucasian,18 and younger
+34,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,21-24
+35,CMP 101 Computer Information Literacy,Liberal Arts,Prefer not to say,Choose not to reply,21-24
+36,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,21-24
+37,CMP 126 Computer Technology and Applications,Hospitality,Woman,White/Caucasian,19-20
+38,CMP 101 Computer Information Literacy,Hospitality ,Woman,White/Caucasian,19-20
+39,CMP 126 Computer Technology and Applications,Broadcasting Arts and Technology,Woman,Multi-Racial,18 and younger
+40,CMP 101 Computer Information Literacy,Not in a degree program,Man,White/Caucasian,19-20
+41,CMP 126 Computer Technology and Applications,Communication,Woman,White/Caucasian,21-24
+42,CMP 126 Computer Technology and Applications,Early Childhood Education,Woman,White/Caucasian,19-20
+43,CMP 135 Computer Concepts with Applications,Culinary Arts and Science ,Woman,White/Caucasian,19-20
+44,CMP 126 Computer Technology and Applications,Early Childhood Education,Woman,White/Caucasian,19-20
+45,CMP 126 Computer Technology and Applications,Musical Theatre,Woman,White/Caucasian,18 and younger
+46,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,21-24
+47,CMP 126 Computer Technology and Applications,Culinary arts and science ,Woman,White/Caucasian,19-20
+48,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,White/Caucasian,19-20
+49,CMP 135 Computer Concepts with Applications,Exercise Science,Man,Choose not to reply,19-20
+50,CMP 126 Computer Technology and Applications,30 College credit program,Man,White/Caucasian,21-24
+51,CMP 135 Computer Concepts with Applications,Journalism,Man,White/Caucasian,19-20
+52,CMP 126 Computer Technology and Applications,Child and Family Studies,,Hispanic or Latino,19-20
+53,CMP 135 Computer Concepts with Applications,Math education ,Woman,White/Caucasian,18 and younger
+54,CMP 126 Computer Technology and Applications,Humanities,Man,White/Caucasian,19-20
+55,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,21-24
+56,CMP 126 Computer Technology and Applications,Psychology ,Woman,White/Caucasian,21-24
+57,CMP 101 Computer Information Literacy,Liberal Arts,Man,Black/African American,19-20
+58,CMP 126 Computer Technology and Applications,liberal arts/humanitites,Woman,White/Caucasian,19-20
+59,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,White/Caucasian,25-34
+60,CMP 135 Computer Concepts with Applications,Exercise Science,Man,Hispanic or Latino,19-20
+61,CMP 101 Computer Information Literacy,Criminal Justice,Man,White/Caucasian,19-20
+62,CMP 135 Computer Concepts with Applications,Exercise Science,Woman,White/Caucasian,25-34
+63,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,Hispanic or Latino,19-20
+64,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,19-20
+65,CMP 135 Computer Concepts with Applications,Music Technology,Man,White/Caucasian,19-20
+66,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,19-20
+67,CMP 135 Computer Concepts with Applications,Exercise Science,Woman,White/Caucasian,35-64
+68,CMP 101 Computer Information Literacy,Criminal Justice,Man,White/Caucasian,19-20
+69,CMP 101 Computer Information Literacy,fashion design  ,Woman,Black/African American,25-34
+70,CMP 101 Computer Information Literacy,Not in a degree program,Man,White/Caucasian,21-24
+71,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,White/Caucasian,21-24
+72,CMP 135 Computer Concepts with Applications,Exercise Science,Woman,White/Caucasian,19-20
+73,CMP 126 Computer Technology and Applications,Communication,Woman,White/Caucasian,21-24
+74,CMP 135 Computer Concepts with Applications,Mathematics,Woman,White/Caucasian,19-20
+75,CMP 126 Computer Technology and Applications,Human Services,Woman,White/Caucasian,21-24
+76,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,18 and younger
+77,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,White/Caucasian,19-20
+78,CMP 135 Computer Concepts with Applications,Exercise Science,Woman,White/Caucasian,19-20
+79,CMP 135 Computer Concepts with Applications,Exercise Science,Man,White/Caucasian,19-20
+80,CMP 135 Computer Concepts with Applications,Physical Education ,Woman,White/Caucasian,18 and younger
+81,CMP 135 Computer Concepts with Applications,Public Health,Woman,White/Caucasian,19-20
+82,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,Hispanic or Latino,21-24
+83,CMP 135 Computer Concepts with Applications,Exercise Science,Man,White/Caucasian,25-34
+84,CMP 135 Computer Concepts with Applications,Exercise Science,Woman,Hispanic or Latino,19-20
+85,CMP 135 Computer Concepts with Applications,Exercise Science,Man,White/Caucasian,25-34
+86,CMP 126 Computer Technology and Applications,Criminal Justice,Man,White/Caucasian,65+
+87,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,Hispanic or Latino,19-20
+88,CMP 135 Computer Concepts with Applications,Exercise Science,Woman,White/Caucasian,19-20
+89,CMP 126 Computer Technology and Applications,fire science and technology,Man,White/Caucasian,18 and younger
+90,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,35-64
+91,CMP 126 Computer Technology and Applications,Broadcasting Arts and Technology,Man,White/Caucasian,21-24
+92,CMP 101 Computer Information Literacy,Humanities Social Sciences,Woman,White/Caucasian,18 and younger
+93,CMP 126 Computer Technology and Applications,Liberal Arts & Sciences,Man,White/Caucasian,19-20
+94,CMP 126 Computer Technology and Applications,Political Science,Man,White/Caucasian,19-20
+95,CMP 126 Computer Technology and Applications,Journalism,Woman,White/Caucasian,19-20
+96,CMP 126 Computer Technology and Applications,Criminal Justice,Man,Multi-Racial,19-20
+97,CMP 101 Computer Information Literacy,Nursing,Prefer not to say,Choose not to reply,19-20
+98,CMP 101 Computer Information Literacy,Nursing,Prefer not to say,Choose not to reply,19-20
+99,CMP 126 Computer Technology and Applications,Not in a degree program,Woman,White/Caucasian,18 and younger
+100,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,25-34
+101,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,25-34
+102,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,21-24
+103,CMP 126 Computer Technology and Applications,Not in a degree program,Prefer not to say,Choose not to reply,25-34
+104,CMP 126 Computer Technology and Applications,Business,Man,White/Caucasian,19-20
+105,CMP 126 Computer Technology and Applications,Criminal Justice,Woman,White/Caucasian,18 and younger
+106,CMP 126 Computer Technology and Applications,Criminal Justice,Woman,White/Caucasian,18 and younger
+107,CMP 135 Computer Concepts with Applications,Nursing,Man,Hispanic or Latino,21-24
+108,CMP 126 Computer Technology and Applications,Criminal Justice,Man,Multi-Racial,19-20
+109,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,21-24
+110,CMP 135 Computer Concepts with Applications,Radiography,Man,Hispanic or Latino,25-34
+111,CMP 126 Computer Technology and Applications,Early Childhood Education;Child and Family Studies,Woman,Hispanic or Latino,21-24
+112,CMP 135 Computer Concepts with Applications,Public Health,Woman,Multi-Racial,19-20
+113,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,19-20
+114,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,21-24
+115,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,21-24
+116,CMP 101 Computer Information Literacy,Criminal Justice,Man,White/Caucasian,21-24
+117,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,White/Caucasian,19-20
+118,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,Hispanic or Latino,19-20
+119,CMP 135 Computer Concepts with Applications,Music Technology,Man,Multi-Racial,19-20
+120,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,Multi-Racial,21-24
+121,CMP 135 Computer Concepts with Applications,Radiography,Woman,Hispanic or Latino,21-24
+122,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,21-24
+123,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,19-20
+124,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,White/Caucasian,25-34
+125,CMP 135 Computer Concepts with Applications,Nursing,Woman,Black/African American,35-64
+126,CMP 135 Computer Concepts with Applications,Radiography,Woman,Multi-Racial,19-20
+127,CMP 135 Computer Concepts with Applications,Nursing,Woman,Black/African American,35-64
+128,CMP 135 Computer Concepts with Applications,Radiography,Woman,Hispanic or Latino,19-20
+129,CMP 135 Computer Concepts with Applications,Music Technology,Woman,Asian,21-24
+130,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,White/Caucasian,18 and younger
+131,CMP 126 Computer Technology and Applications,Liberal Arts,Man,Hispanic or Latino,19-20
+132,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,21-24
+133,CMP 126 Computer Technology and Applications,Criminal Justice,Woman,White/Caucasian,18 and younger
+134,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,21-24
+135,CMP 126 Computer Technology and Applications,Not in a degree program,Man,White/Caucasian,19-20
+136,CMP 101 Computer Information Literacy,Radiography,Woman,Hispanic or Latino,21-24
+137,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,Multi-Racial,19-20
+138,CMP 126 Computer Technology and Applications,liberal arts,Woman,White/Caucasian,19-20
+139,CMP 126 Computer Technology and Applications,Not in a degree program,Man,White/Caucasian,19-20
+140,CMP 126 Computer Technology and Applications,Psychology,Woman,White/Caucasian,19-20
+141,CMP 126 Computer Technology and Applications,Early Childhood Education,Woman,White/Caucasian,25-34
+142,CMP 126 Computer Technology and Applications,Music Performance,Man,Multi-Racial,21-24
+143,CMP 126 Computer Technology and Applications,Communication,Man,Hispanic or Latino,19-20
+144,CMP 126 Computer Technology and Applications,Broadcasting Arts and Technology,Woman,White/Caucasian,19-20
+145,CMP 126 Computer Technology and Applications,Communication,Man,Hispanic or Latino,21-24
+146,CMP 135 Computer Concepts with Applications,Radiography,Man,White/Caucasian,19-20
+147,CMP 126 Computer Technology and Applications,Liberal arts,Man,Choose not to reply,21-24
+148,CMP 126 Computer Technology and Applications,Nursing,Woman,Black/African American,35-64
+149,CMP 135 Computer Concepts with Applications,Mathematics and Financial,Man,Multi-Racial,18 and younger
+150,CMP 126 Computer Technology and Applications,Liberal Arts,Man,White/Caucasian,21-24
+151,CMP 101 Computer Information Literacy,Nursing,Woman,Hispanic or Latino,25-34
+152,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,25-34
+153,CMP 135 Computer Concepts with Applications,Liberal Arts,Woman,Multi-Racial,18 and younger
+154,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,Hispanic or Latino,19-20
+155,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,Hispanic or Latino,19-20
+156,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,19-20
+157,CMP 135 Computer Concepts with Applications,Music Technology,Man,Hispanic or Latino,21-24
+158,CMP 135 Computer Concepts with Applications,Nursing,Woman,White/Caucasian,19-20
+159,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,18 and younger
+160,CMP 135 Computer Concepts with Applications,Liberal Arts,Man,Black/African American,18 and younger
+161,CMP 135 Computer Concepts with Applications,Child and Family Studies,Woman,White/Caucasian,19-20
+162,CMP 135 Computer Concepts with Applications,Music Technology,Man,White/Caucasian,18 and younger
+163,CMP 135 Computer Concepts with Applications,Criminal Justice,I do not identify,White/Caucasian,19-20
+164,CMP 135 Computer Concepts with Applications,humanities ,Man,Hispanic or Latino,18 and younger
+165,CMP 126 Computer Technology and Applications,Liberal Arts,Man,Asian,19-20
+166,CMP 126 Computer Technology and Applications,Public Health,Woman,White/Caucasian,19-20
+167,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,White/Caucasian,19-20
+168,CMP 126 Computer Technology and Applications,Broadcasting Arts and Technology,Man,Choose not to reply,21-24
+169,CMP 126 Computer Technology and Applications,COMPUTER AIDED DESIGNING AND DRAFTING,Man,Asian,21-24
+170,CMP 126 Computer Technology and Applications,liberal arts,Man,White/Caucasian,21-24
+171,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,21-24
+172,CMP 126 Computer Technology and Applications,Psychology ,Man,Black/African American,21-24
+173,CMP 135 Computer Concepts with Applications,Radiography,Woman,Asian,21-24
+174,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,Hispanic or Latino,25-34
+175,CMP 101 Computer Information Literacy,Nursing,Woman,Black/African American,19-20
+176,CMP 126 Computer Technology and Applications,Communication,Man,White/Caucasian,25-34
+177,CMP 135 Computer Concepts with Applications,Radiography,Woman,Choose not to reply,19-20
+178,CMP 135 Computer Concepts with Applications,Radiography,Woman,Asian,35-64
+179,CMP 101 Computer Information Literacy,Public Health,Woman,White/Caucasian,19-20
+180,CMP 101 Computer Information Literacy,Criminal Justice,Man,White/Caucasian,18 and younger
+181,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,White/Caucasian,21-24
+182,CMP 135 Computer Concepts with Applications,Music Technology,Man,White/Caucasian,19-20
+183,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,White/Caucasian,19-20
+184,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,18 and younger
+185,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,19-20
+186,CMP 135 Computer Concepts with Applications,Radiography,Man,Hispanic or Latino,19-20
+187,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,Hispanic or Latino,19-20
+188,CMP 135 Computer Concepts with Applications,Music Technology,Man,White/Caucasian,18 and younger
+189,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,Hispanic or Latino,21-24
+190,CMP 135 Computer Concepts with Applications,Radiography;Nursing,Woman,White/Caucasian,35-64
+191,CMP 135 Computer Concepts with Applications,liberal arts,Woman,White/Caucasian,19-20
+192,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,White/Caucasian,19-20
+193,CMP 135 Computer Concepts with Applications,Radiography;Nursing,Woman,Multi-Racial,19-20
+194,CMP 126 Computer Technology and Applications,Communication,Woman,Hispanic or Latino,19-20
+195,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,Choose not to reply,19-20
+196,CMP 126 Computer Technology and Applications,Thinking of Biology and Engineering.,Man,Hispanic or Latino,19-20
+197,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,White/Caucasian,19-20
+198,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,White/Caucasian,19-20
+199,CMP 101 Computer Information Literacy,Nursing,Man,Multi-Racial,18 and younger
+200,CMP 126 Computer Technology and Applications,liberal arts,Man,White/Caucasian,19-20
+201,CMP 126 Computer Technology and Applications,Communication,Woman,Multi-Racial,21-24
+202,CMP 126 Computer Technology and Applications,Criminal Justice,Woman,Choose not to reply,65+
+203,CMP 126 Computer Technology and Applications,Broadcasting Arts and Technology,Non-binary,Multi-Racial,19-20
+204,CMP 126 Computer Technology and Applications,Liberal Arts,Man,Hispanic or Latino,19-20
+205,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,19-20
+206,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,White/Caucasian,19-20
+207,CMP 126 Computer Technology and Applications,Musical Theatre,Woman,White/Caucasian,21-24
+208,CMP 126 Computer Technology and Applications,Communication,Woman,White/Caucasian,19-20
+209,CMP 126 Computer Technology and Applications,Criminal Justice,Woman,Choose not to reply,35-64
+210,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,Hispanic or Latino,35-64
+211,CMP 126 Computer Technology and Applications,Not in a degree program,Woman,Multi-Racial,18 and younger
+212,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,White/Caucasian,35-64
+213,CMP 101 Computer Information Literacy,Nursing,Woman,Hispanic or Latino,19-20
+214,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,White/Caucasian,19-20
+215,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,Asian,19-20
+216,CMP 135 Computer Concepts with Applications,Exercise Science,Prefer not to say,Choose not to reply,19-20
+217,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,Asian,18 and younger
+218,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,25-34
+219,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,Hispanic or Latino,19-20
+220,CMP 126 Computer Technology and Applications,Criminal Justice,Man,White/Caucasian,18 and younger
+221,CMP 126 Computer Technology and Applications,Communication,Woman,White/Caucasian,35-64
+222,CMP 126 Computer Technology and Applications,Sociology-Humanities,Woman,White/Caucasian,35-64
+223,CMP 135 Computer Concepts with Applications,Radiography,Man,White/Caucasian,25-34
+224,CMP 101 Computer Information Literacy,Nursing,Woman,Hispanic or Latino,25-34
+225,CMP 126 Computer Technology and Applications,Hospitality Mgmt ,Man,White/Caucasian,19-20
+226,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,White/Caucasian,21-24
+227,CMP 126 Computer Technology and Applications,Nursing,Woman,Multi-Racial,21-24
+228,CMP 126 Computer Technology and Applications,Broadcasting Arts and Technology,Man,White/Caucasian,21-24
+229,CMP 126 Computer Technology and Applications,Nursing,Woman,White/Caucasian,19-20
+230,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,White/Caucasian,21-24
+231,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,White/Caucasian,19-20
+232,CMP 126 Computer Technology and Applications,Music,Man,Asian,21-24
+233,CMP 126 Computer Technology and Applications,Broadcast Journalism,Woman,White/Caucasian,19-20
+234,CMP 126 Computer Technology and Applications,Fire Science Technology,Man,White/Caucasian,19-20
+235,CMP 126 Computer Technology and Applications,Broadcasting Arts and Technology,Man,White/Caucasian,18 and younger
+236,CMP 126 Computer Technology and Applications,Theatre Technology,Man,White/Caucasian,19-20
+237,CMP 126 Computer Technology and Applications,Human Services,Woman,Hispanic or Latino,19-20
+238,CMP 126 Computer Technology and Applications,Communication,Man,White/Caucasian,21-24
+239,CMP 126 Computer Technology and Applications,Communication,Woman,White/Caucasian,18 and younger
+240,CMP 101 Computer Information Literacy,Liberal Arts,Woman,White/Caucasian,19-20
+241,CMP 126 Computer Technology and Applications,Liberal Arts,Man,White/Caucasian,25-34
+242,CMP 101 Computer Information Literacy,Nursing,Woman,Choose not to reply,25-34
+243,CMP 101 Computer Information Literacy,Nursing,Woman,Choose not to reply,25-34
+244,CMP 135 Computer Concepts with Applications,Liberal Arts,Man,Black/African American,19-20
+245,CMP 126 Computer Technology and Applications,Liberal Arts,Man,Hispanic or Latino,19-20
+246,CMP 101 Computer Information Literacy,Nursing,Woman,Choose not to reply,25-34
+247,CMP 126 Computer Technology and Applications,Not in a degree program,Man,White/Caucasian,21-24
+248,CMP 101 Computer Information Literacy,Radiography,Man,Hispanic or Latino,18 and younger
+249,CMP 135 Computer Concepts with Applications,Music Technology,Man,Hispanic or Latino,19-20
+250,CMP 101 Computer Information Literacy,Nursing,Woman,Hispanic or Latino,18 and younger
+251,CMP 126 Computer Technology and Applications,Criminal Justice,Man,Hispanic or Latino,18 and younger
+252,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,White/Caucasian,19-20
+253,CMP 135 Computer Concepts with Applications,Public Administration,Man,White/Caucasian,18 and younger
+254,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,25-34
+255,CMP 126 Computer Technology and Applications,Criminal Justice,Woman,Multi-Racial,19-20
+256,CMP 126 Computer Technology and Applications,Criminal Justice,Woman,Multi-Racial,19-20
+257,CMP 135 Computer Concepts with Applications,Radiography,Man,Hispanic or Latino,35-64
+258,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,Choose not to reply,19-20
+259,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,White/Caucasian,21-24
+260,CMP 135 Computer Concepts with Applications,Exercise Science,Man,White/Caucasian,18 and younger
+261,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,White/Caucasian,25-34
+262,CMP 101 Computer Information Literacy,Liberal Arts,Man,Choose not to reply,19-20
+263,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,White/Caucasian,19-20
+264,CMP 126 Computer Technology and Applications,Public Health,Prefer not to say,Hispanic or Latino,21-24
+265,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,Hispanic or Latino,19-20
+266,CMP 101 Computer Information Literacy,Nursing,Woman,Black/African American,35-64
+267,CMP 135 Computer Concepts with Applications,Exercise Science,Woman,White/Caucasian,21-24
+268,CMP 101 Computer Information Literacy,Liberal Arts,Woman,White/Caucasian,19-20
+269,CMP 135 Computer Concepts with Applications,Nursing,Woman,White/Caucasian,19-20
+270,CMP 135 Computer Concepts with Applications,Electronic Music,Man,Black/African American,25-34
+271,CMP 135 Computer Concepts with Applications,Radiography,Woman,Hispanic or Latino,21-24
+272,CMP 135 Computer Concepts with Applications,Environmental Science,Woman,Hispanic or Latino,19-20
+273,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,Hispanic or Latino,19-20
+274,CMP 101 Computer Information Literacy,Nursing,Woman,White/Caucasian,19-20
+275,CMP 126 Computer Technology and Applications,Communication,Woman,Multi-Racial,35-64
+276,CMP 135 Computer Concepts with Applications,Radiography,Man,White/Caucasian,21-24
+277,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,35-64
+278,CMP 135 Computer Concepts with Applications,Exercise Science,Man,White/Caucasian,65+
+279,CMP 101 Computer Information Literacy,Teaching Mathematics,Woman,Hispanic or Latino,19-20
+280,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,18 and younger
+281,CMP 126 Computer Technology and Applications,Criminal Justice,Man,Hispanic or Latino,19-20
+282,CMP 135 Computer Concepts with Applications,Radiography,Woman,Black/African American,18 and younger
+283,CMP 135 Computer Concepts with Applications,Exercise Science,Woman,White/Caucasian,19-20
+284,CMP 101 Computer Information Literacy,Liberal Arts,Woman,White/Caucasian,19-20
+285,CMP 135 Computer Concepts with Applications,Radiography,Woman,Choose not to reply,25-34
+286,CMP 135 Computer Concepts with Applications,Not in a degree program,Man,Black/African American,25-34
+287,CMP 126 Computer Technology and Applications,Not in a degree program,Man,Asian,35-64
+288,CMP 135 Computer Concepts with Applications,Liberal Arts,Man,White/Caucasian,21-24
+289,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,Hispanic or Latino,19-20
+290,CMP 126 Computer Technology and Applications,Child and Family Studies,Woman,Hispanic or Latino,21-24
+291,CMP 126 Computer Technology and Applications,Public Administration,Woman,Hispanic or Latino,19-20
+292,CMP 135 Computer Concepts with Applications,Not in a degree program,Man,Asian,35-64
+293,CMP 135 Computer Concepts with Applications,Radiography,Woman,Hispanic or Latino,18 and younger
+294,CMP 135 Computer Concepts with Applications,Radiography,Man,Hispanic or Latino,19-20
+295,CMP 126 Computer Technology and Applications,Broadcasting Arts and Technology,Woman,White/Caucasian,21-24
+296,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,Hispanic or Latino,18 and younger
+297,CMP 135 Computer Concepts with Applications,Criminal Justice,Man,Hispanic or Latino,19-20
+298,CMP 126 Computer Technology and Applications,Communication,Man,White/Caucasian,19-20
+299,CMP 101 Computer Information Literacy,Liberal Arts,Man,White/Caucasian,25-34
+300,CMP 101 Computer Information Literacy,Business,Woman,Hispanic or Latino,25-34
+301,CMP 126 Computer Technology and Applications,Nursing,Woman,White/Caucasian,19-20
+302,CMP 101 Computer Information Literacy,Nursing,Woman,Black/African American,19-20
+303,CMP 126 Computer Technology and Applications,Broadcasting Arts and Technology,Man,White/Caucasian,25-34
+304,CMP 101 Computer Information Literacy,Liberal Arts,Woman,Hispanic or Latino,21-24
+305,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,White/Caucasian,19-20
+306,CMP 101 Computer Information Literacy,Nursing,Woman,Multi-Racial,19-20
+307,CMP 126 Computer Technology and Applications,Business,Man,White/Caucasian,18 and younger
+308,CMP 135 Computer Concepts with Applications,Radiography,Non-binary,Choose not to reply,21-24
+309,CMP 135 Computer Concepts with Applications,Early Childhood Education,Woman,White/Caucasian,19-20
+310,CMP 101 Computer Information Literacy,Nursing,Woman,Black/African American,18 and younger
+311,CMP 126 Computer Technology and Applications,Music performance ,Woman,Hispanic or Latino,19-20
+312,CMP 126 Computer Technology and Applications,Criminal Justice,Man,American Indian/Native American/Alaska Native,19-20
+313,CMP 135 Computer Concepts with Applications,Mathmatics,Man,White/Caucasian,19-20
+314,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,21-24
+315,CMP 101 Computer Information Literacy,Nursing,Woman,Asian,25-34
+316,CMP 126 Computer Technology and Applications,Liberal Arts,Woman,Hispanic or Latino,19-20
+317,CMP 101 Computer Information Literacy,Nursing,Woman,Hispanic or Latino,18 and younger
+318,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,25-34
+319,CMP 101 Computer Information Literacy,Liberal Arts,Man,Hispanic or Latino,21-24
+320,CMP 135 Computer Concepts with Applications,Criminal Justice,Woman,Multi-Racial,19-20
+321,CMP 135 Computer Concepts with Applications,Radiography,Man,Black/African American,25-34
+322,CMP 135 Computer Concepts with Applications,Liberal Arts,Woman,White/Caucasian,19-20
+323,CMP 135 Computer Concepts with Applications,Radiography,Woman,White/Caucasian,21-24
+324,,,,,
+325,,,,,
+326,,,,,
+327,,,,,
